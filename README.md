@@ -125,6 +125,6 @@ https://vprofile.projectops.xyz
 - **Apache Tomcat**
 - **AWS EC2, S3, ALB, Auto Scaling, Route 53, ACM**
 
-## ✍️ Author
+## 🔧 DevOps Implementation & AWS Deployment By
 
 **Maaz Khan** – DevOps Engineer | Cloud & Automation Enthusiast
