@@ -119,7 +119,7 @@ https://vprofile.projectops.xyz
 - **Java JDK 11**
 - **Maven 3**
 - **Spring MVC & Spring Security**
-- **MySQL 8**
+- **MySQL 8.0**
 - **RabbitMQ**
 - **Memcached**
 - **Apache Tomcat**
